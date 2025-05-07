@@ -39,17 +39,6 @@ Le backend est développé en Java avec Spring Boot.
 #### Scripts SQL de Création de la Base de Données
 Les scripts SQL nécessaires à la création des tables de la base de données sont fournis avec l'application dans le dossier
 
-Pour initialiser la base de données :
-1. Exécuter les scripts SQL dans l'ordre suivant :
-   - `V1__create_tables.sql` : Création des tables principales
-   - `V2__insert_default_data.sql` : Insertion des données par défaut
-
-Vous pouvez exécuter ces scripts via pgAdmin ou la ligne de commande PostgreSQL :
-```bash
-psql -U postgres -d mission_db -f V1__create_tables.sql
-psql -U postgres -d mission_db -f V2__insert_default_data.sql
-```
-
 #### Premier Lancement et Administrateur par Défaut
 Lors du premier lancement de l'application, un compte administrateur est automatiquement créé. Pour l'utiliser :
 
