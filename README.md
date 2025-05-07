@@ -37,7 +37,7 @@ Le backend est développé en Java avec Spring Boot.
 4. Vérifier que la base de données est accessible avec les identifiants configurés
 
 #### Scripts SQL de Création de la Base de Données
-Les scripts SQL nécessaires à la création des tables de la base de données sont fournis avec l'application dans le dossier
+Les scripts SQL nécessaires à la création des tables de la base de données sont fournis avec l'application dans le dossier: "requetes BD"
 
 #### Premier Lancement et Administrateur par Défaut
 Lors du premier lancement de l'application, un compte administrateur est automatiquement créé. Pour l'utiliser :
@@ -99,4 +99,3 @@ Le frontend est développé avec React et Typescript.
 
 ## Contact
 Alain Tambwe alainmungal@gmail.com
-Jean-Christ Adjovi 
