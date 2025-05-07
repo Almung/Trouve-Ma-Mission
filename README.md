@@ -46,8 +46,8 @@ Lors du premier lancement de l'application, un compte administrateur est automat
 2. Arrêter le serveur
 3. Relancer le serveur
 4. Utiliser les identifiants suivants pour vous connecter :
-   - Email : admin@admin.com
-   - Mot de passe : admin123
+   - Email : alainadmin@example.com
+   - Mot de passe : admin@#123
 
 ⚠️ Important : Pour des raisons de sécurité, il est fortement recommandé de changer le mot de passe de l'administrateur après la première connexion.
 
