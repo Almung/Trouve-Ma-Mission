@@ -1,4 +1,4 @@
-# Plateforme de gestion de projet
+# Plateforme de gestion de projet (Projet TIC)
 
 ## Description
 Ce projet est une plateforme de gestion de projet et collaborateur qui permet de gérer les missions et les ressources humaines. Il est composé d'une partie frontend et d'une partie backend.
